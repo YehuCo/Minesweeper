@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\yehud\source\repos\Minesweeper\Project3\Random.h(13,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(117,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(118,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(179,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(189,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(190,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(207,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(218,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(219,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(366,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(366,65): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(497,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\Board.h(498,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(17,59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(17,40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(27,50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(28,50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(29,50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(30,53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(56,110): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Minesweeper\Project3\main.cpp(56,160): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 482 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3.vcxproj -> C:\Users\yehud\source\repos\Minesweeper\Release\Project3.exe

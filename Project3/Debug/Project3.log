@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\yehud\source\repos\Project3\Project3\Random.h(13,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(140,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(141,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(202,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(203,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(213,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(214,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(361,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\Board.h(362,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(20,59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(20,40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(21,64): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(22,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(23,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(24,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(49,134): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yehud\source\repos\Project3\Project3\main.cpp(49,184): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\yehud\source\repos\Project3\Debug\Project3.exe
